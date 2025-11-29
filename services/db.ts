@@ -2,7 +2,7 @@
 import { BlogPost, Comment, User, Report, DonationRequest } from '../types';
 
 // Configuration for the Flask Backend (Default port is 5000)
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://safehavenafrica.onrender.com';
 
 const POSTS_KEY = 'safehaven_posts';
 const REPORTS_KEY = 'safehaven_reports';
