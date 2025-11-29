@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SafeHaven - GBV Support & Awareness",
+  "description": "A comprehensive platform providing support for Gender-Based Violence survivors, educational resources, a community blog, and an AI-powered mental health companion.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
